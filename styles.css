@@ -49,7 +49,7 @@ body{
 .container .img-container{
     grid-area: face;
     /* darle un elemnt de fondo */
-    background-image:url(facemask.jpg);
+    background-image:url(perro.jpg);
     
     /* propiedades del elemnto de fondo */
     background-repeat: no-repeat; 
